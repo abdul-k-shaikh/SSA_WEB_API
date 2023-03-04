@@ -15,7 +15,7 @@ public class SsaService {
 			stateName="Rohde Island";
 		}
 		else if(ssn.startsWith("6")) {
-			stateName="Kentuccky";
+			stateName="Kentucky";
 		}
 		else if(ssn.startsWith("7")) {
 			stateName="Ohio";
